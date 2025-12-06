@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,99369,e=>{"use strict";var t=e.i(43476),o=e.i(37951),u=e.i(71645);function i({children:e}){let i=(0,o.useAuthStore)(e=>e.loadToken);return(0,u.useEffect)(()=>{i()},[]),(0,t.jsx)(t.Fragment,{children:e})}e.s(["default",()=>i])}]);
