@@ -1,0 +1,1 @@
+import{i as e}from"./index-Cq09WtBU.js";var t=class extends e{async setSystemBarsStyle(){this.unavailable(`not available for web`)}async showSystemBars(){this.unavailable(`not available for web`)}async hideSystemBars(){this.unavailable(`not available for web`)}};export{t as SafeAreaWeb};
